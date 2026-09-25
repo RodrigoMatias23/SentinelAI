@@ -1,3 +1,0 @@
-{"timestamp":"2026-09-08T11:00:00Z","event_type":"web_suspicious_path","source_ip":"198.51.100.23","target":"/etc/passwd","message":"GET /etc/passwd 404"}
-{"timestamp":"2026-09-08T11:00:20Z","event_type":"web_suspicious_path","source_ip":"198.51.100.23","target":"/.env","message":"GET /.env 404"}
-{"timestamp":"2026-09-08T11:00:45Z","event_type":"web_suspicious_path","source_ip":"198.51.100.23","target":"/wp-admin/setup-config.php","message":"GET /wp-admin/setup-config.php 404"}
